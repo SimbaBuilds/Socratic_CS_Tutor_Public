@@ -1,2 +1,2 @@
-toml==0.10.2  # As per the latest release 
-openai==0.28.1  # Released on Sep 26, 2023
+toml
+openai
